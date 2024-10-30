@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.9.1)
+  - IQKeyboardManager (6.5.19)
+  - LBTATools (1.0.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - LBTATools
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - LBTATools
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+
+PODFILE CHECKSUM: 036f9ab5a71d639ec718ea9e8d6fd760b92edca8
+
+COCOAPODS: 1.16.1
